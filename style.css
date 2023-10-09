@@ -1,0 +1,210 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  header img {
+    width: 100px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1rem;
+  }
+  
+  nav a:hover {
+    color: #ccc;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ccc;
+  }
+  
+  footer {
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+  
+  /* Colores personalizados */
+  
+  :root {
+    --primary-color: #000;
+    --secondary-color: #fff;
+  }
+  
+  /* Estilos adicionales */
+  
+  .banner {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 1rem;
+  }
+  
+  .testimonials img {
+    width: 50px;
+    border-radius: 50%;
+  }
+  
+  .call-to-action a {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav .logo {
+    width: 100px;
+  }
+  
+  nav .links {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav .links li {
+    margin: 0 1rem;
+  }
+  
+  nav .links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1rem;
+  }
+
+  body {
+    background-color: #0099CC;
+    color: #000;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  h1, h2 {
+    color: #fff;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .img-example {
+    float: left;
+    width: 50%;
+    margin-right: 20px;
+  }
+  
+  .text-example {
+    float: right;
+    width: 50%;
+    margin-left: 20px;
+  }
+  
+  .nav-tabs {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .nav-link {
+    color: #0099CC;
+    font-weight: bold;
+  }
+  
+  .nav-link.active {
+    color: #fff;
+    background-color: #0099CC;
+  }
+
+  .nav-tabs {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .nav-link {
+    color: #0099CC;
+    font-weight: bold;
+  }
+  
+  .nav-link.active {
+    color: #fff;
+    background-color: #0099CC;
+  }
+  
+  .tab-content {
+    margin-top: 10px;
+  }
+  
+  .img-example {
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .text-example {
+    width: 50%;
+    float: right;
+    margin-left: 20px;
+  }
+  
+  
